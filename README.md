@@ -19,7 +19,7 @@ I am able to compile the project using Particle Workbench or po-util.
 
 ## Building this project
 
-Here are the neccesary commands for cloning this project and submodules, as well as compiling the project with po-util:
+Here are the necessary commands for cloning this project and submodules, as well as compiling the project with po-util:
 
 ```bash
 $ git clone --recurse-submodules https://github.com/nrobinson2000/submodule-test
