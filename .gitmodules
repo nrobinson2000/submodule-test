@@ -1,0 +1,3 @@
+[submodule "lib/libfixmath"]
+	path = lib/libfixmath
+	url = https://github.com/nrobinson2000/libfixmath
